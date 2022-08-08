@@ -4,7 +4,7 @@
 This project contains the UI design of Nike Homepage using Figma
 
 
-## Screenshot
+## Screenshots
 
 [![Final-image.png](https://i.postimg.cc/wMq2kB3w/Final-image.png)](https://postimg.cc/TLsndfVb)
 
